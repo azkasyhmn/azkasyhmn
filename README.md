@@ -1,4 +1,4 @@
-## Hello! Welcome to my page 👋
+## Hello! Welcome to my profile 👋
 
 <!--
 **azkasyhmn/azkasyhmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,4 +23,3 @@ Here are some ideas to get you started:
 
 ![naruto](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdzZmllbDltcWx6cWg5bmx1OWxidmlpcWszaXZpZm8yYnp6aDBzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2y98KScHKeaQM/giphy.gif)
 
-🔭 I’m currently learning **Website Develop**

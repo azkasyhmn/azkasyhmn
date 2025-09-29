@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![naruto](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxtcXM2M3ByNmFpaDVpYXR6NDN2ZTFseml2bTF5MXFpZjNyYjExNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2y98KScHKeaQM/giphy.gif)
+🔭 I’m currently learning **Website Develop**
+##### Skills
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src ="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+
+![naruto](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdzZmllbDltcWx6cWg5bmx1OWxidmlpcWszaXZpZm8yYnp6aDBzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2y98KScHKeaQM/giphy.gif)
 
 🔭 I’m currently learning **Website Develop**

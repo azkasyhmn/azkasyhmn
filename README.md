@@ -26,13 +26,5 @@ Here are some ideas to get you started:
 
 [![Syahman's GitHub stats](https://github-readme-stats.vercel.app/api?username=azkasyhmn&show_icons=true&theme=algolia)](https://github.com/azkasyhmn/github-readme-stats)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azkasyhmn/azkasyhmn/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azkasyhmn/azkasyhmn/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/azkasyhmn/azkasyhmn/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 ![anime](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxyYW94cDV2djdlMGVwYWNtN2tudzBkbXp2MWVpaWhheDlxZTl4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sNUWF7fAUP2q4/giphy.gif)
 

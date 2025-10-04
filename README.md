@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 <img src ="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 
-![naruto](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGdzZmllbDltcWx6cWg5bmx1OWxidmlpcWszaXZpZm8yYnp6aDBzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2y98KScHKeaQM/giphy.gif)
+![naruto]("D:\SYAHMAN\Downloads\video3.gif")
 

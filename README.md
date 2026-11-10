@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 
 ## Editing
 
-![Editing](https://skillicons.dev/icons?i=ae)](https://skillicons.dev)
+[![Editing](https://skillicons.dev/icons?i=ae)](https://skillicons.dev)
 
-![anime](https://giphy.com/gifs/Edgerunners-anime-cyberpunk-edgerunners-c0PX1PqTeqhbtKMekM)
 

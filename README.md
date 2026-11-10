@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Code
 
-[![Software or Language](https://skillicons.dev/icons?i=html,css,php,laravel,flutter,mysql,figma)](https://skillicons.dev)
+[![Software or Language](https://skillicons.dev/icons?i=html,css,php,laravel,flutter,mysql)](https://skillicons.dev)
 
 ## Editing
 

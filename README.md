@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently learning **Website Development**
+🌱 I’m currently learning **Software Engineering**
 ##### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,figma)](https://skillicons.dev)

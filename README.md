@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning **Software Engineering**
 ##### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,laravel,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,laravel,flutter,mysql,figma)](https://skillicons.dev)
 
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 

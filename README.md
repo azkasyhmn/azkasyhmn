@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
 [![Editing](https://skillicons.dev/icons?i=ae)](https://skillicons.dev)
 
-![anime](<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/X6E37oJR5niSmUOnoE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Edgerunners-anime-cyberpunk-edgerunners-X6E37oJR5niSmUOnoE">via GIPHY</a></p>)
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/c0PX1PqTeqhbtKMekM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Edgerunners-anime-cyberpunk-edgerunners-c0PX1PqTeqhbtKMekM">via GIPHY</a></p>
 

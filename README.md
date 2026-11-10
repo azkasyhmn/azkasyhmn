@@ -1,4 +1,4 @@
-<img width="480" height="270" alt="David Martinez Love GIF by Cyberpunk Edgerunners" src="https://github.com/user-attachments/assets/fed724a2-4c24-441f-bd55-e5359fcf271d" />
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/c0PX1PqTeqhbtKMekM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Edgerunners-anime-cyberpunk-edgerunners-c0PX1PqTeqhbtKMekM">via GIPHY</a></p>
 
 ## Hello! Welcome to my profile 👋
 
